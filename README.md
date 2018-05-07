@@ -1,2 +1,1 @@
-# TFLTimeTracking
-Script to load personal TFL CSV travel data into https://pontefract.io
+Script to upload TFL Travel Data to time-tracking app pontefract.io
